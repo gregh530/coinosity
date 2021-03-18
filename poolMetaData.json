@@ -1,6 +1,6 @@
 {
 "name": "Coinosity ADA Pool #1",
-"description": "Coinosity ADA 24/7/365 Pool",
+"description": "Coinosity is an ADA stake pool, focused on security, high availability, and reasonable fees.   We chose to run an ADA Stake Pool because we believe it is the cryptocurrency of the future.  We are committed to monitoring, and making sure this pool has a 99.9 percent uptime, and always up to date.",
 "ticker": "COIN",
 "homepage": "https://www.coinosity.net"
 }
